@@ -11,6 +11,6 @@ Live link to page with refactored code:
 
 ## Screenshots
 
-Old page: (.01-html-css-git-homework-demo.png)
+Old page: ![Old page] (.01-html-css-git-homework-demo.png)
 
-Upadted page: (.codeRefactorUpdatedImage.png)
+Upadted page: ![Updated page] (.codeRefactorUpdatedImage.png)
