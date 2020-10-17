@@ -6,7 +6,7 @@ HTML and CSS code refactor for the Horiseon landing page.
 Spent time changing elements to semantic elements, adding alt text to images, and improving accessibility of the page.
 
 Live link to page with refactored code: 
-
+[Updated code](https://con0fav.github.io/codeRefactor-bc01/)
 
 
 ## Screenshots
